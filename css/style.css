@@ -1,5 +1,5 @@
 /* www.fczbl.vip */
-*{font-family:"Helvetica Neue",Helvetica,Microsoft Yahei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif}
+*{font-family:arial,"微軟正黑體","Helvetica Neue",Helvetica,Microsoft Yahei,Hiragino Sans GB,WenQuanYi Micro Hei,sans-serif}
 body{height:100%;width:100%;overflow:hidden;padding:0;margin:0}
 .about{position:absolute;top:1em;right:1em;height:1.5em;line-height:1.5em;width:1.5em;border-radius:.75em;font-size:16px;text-align:center;color:#fff;background-color:rgba(0,0,0,.05);cursor:pointer}
 .pop-box{z-index:10001;margin-bottom:2px;display:none;position:fixed;background:#FFF;text-align:center;font-size:16px;width:300px}   
